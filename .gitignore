@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+OpenGL_1/OpenGL_1/Debug/OpenGL_1.log
+*.tlog
+OpenGL_3/.vs/OpenGL_1/v15/.suo
+*.db
+*.ipch
+OpenGL_3/.vs/OpenGL_3/v15/.suo
+OpenGL_3/.vs/OpenGL_2/v15/.suo
+*.log
+*.idb
+*.pdb
+OpenGL_4/.vs/OpenGL_1/v15/.suo
+*.ilk
+*.user
