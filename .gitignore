@@ -40,3 +40,6 @@
 *.user
 *.recipe
 *.suo
+*.vcxproj
+*.filters
+*.sln
